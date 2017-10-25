@@ -1,0 +1,539 @@
+ANO;NIVEL;COD_CURSO;NOME_CURSO;CIDADE;PAIS;NOME_PAIS;TOTAL
+2003;G;99;Especial de Graduação;Alba;IT;Itália;1
+2004;G;99;Especial de Graduação;Alba;IT;Itália;1
+2005;G;99;Especial de Graduação;Montevideo;UY;Uruguai;1
+2005;G;99;Especial de Graduação;;;;2
+2007;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2007;G;99;Especial de Graduação;;;;1
+2008;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;1
+2008;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2009;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2009;G;99;Especial de Graduação;Santiago;PA;Panamá;1
+2010;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2011;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2012;G;99;Especial de Graduação;Angola;AO;Angola;1
+2012;G;99;Especial de Graduação;Barcelona;ES;Espanha;1
+2012;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;1
+2012;G;99;Especial de Graduação;Copenhague;DK;Dinamarca;1
+2012;G;99;Especial de Graduação;Guatemala;GT;Guatemala;1
+2012;G;99;Especial de Graduação;Londres;RU;Reino Unido;1
+2012;G;99;Especial de Graduação;Nara-Ken;JP;Japão;1
+2012;G;99;Especial de Graduação;Oslo;NO;Noruega;1
+2012;G;99;Especial de Graduação;Pamplona;ES;Espanha;1
+2012;G;99;Especial de Graduação;Paris;FR;França;2
+2012;G;99;Especial de Graduação;Puerto Montt;CL;Chile;1
+2012;G;99;Especial de Graduação;Stavanger;NO;Noruega;1
+2012;G;99;Especial de Graduação;Teruel;ES;Espanha;1
+2012;G;99;Especial de Graduação;Torino;IT;Itália;1
+2012;G;99;Especial de Graduação;Tunja;CO;Colômbia;1
+2012;G;99;Especial de Graduação;;;;8
+2013;G;99;Especial de Graduação;Alençon;FR;França;1
+2013;G;99;Especial de Graduação;Alicante;ES;Espanha;2
+2013;G;99;Especial de Graduação;Almería;ES;Espanha;1
+2013;G;99;Especial de Graduação;Asuncion;PY;Paraguai;1
+2013;G;99;Especial de Graduação;Baeza;ES;Espanha;1
+2013;G;99;Especial de Graduação;Bahia Blanca;AR;Argentina;1
+2013;G;99;Especial de Graduação;Barcelona;ES;Espanha;2
+2013;G;99;Especial de Graduação;Barranquilla;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Berlim;DA;Alemanha;1
+2013;G;99;Especial de Graduação;Berlin-Wilmersdorf;FR;França;1
+2013;G;99;Especial de Graduação;Bogotá;CO;Colômbia;12
+2013;G;99;Especial de Graduação;Bordeaux;FR;França;1
+2013;G;99;Especial de Graduação;Brondby;DK;Dinamarca;1
+2013;G;99;Especial de Graduação;Bucaramanga;CO;Colômbia;2
+2013;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;7
+2013;G;99;Especial de Graduação;Buxtehude;DA;Alemanha;1
+2013;G;99;Especial de Graduação;Caen;FR;França;2
+2013;G;99;Especial de Graduação;Cagliari;IT;Itália;1
+2013;G;99;Especial de Graduação;Cali;CO;Colômbia;2
+2013;G;99;Especial de Graduação;Chajarí;AR;Argentina;1
+2013;G;99;Especial de Graduação;Chieri;IT;Itália;1
+2013;G;99;Especial de Graduação;Cidade do México;MX;México;4
+2013;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2013;G;99;Especial de Graduação;Colombes;FR;França;1
+2013;G;99;Especial de Graduação;Concepcion;CL;Chile;1
+2013;G;99;Especial de Graduação;Copenhague;DK;Dinamarca;1
+2013;G;99;Especial de Graduação;Corrientes;AR;Argentina;2
+2013;G;99;Especial de Graduação;Córdoba;AR;Argentina;2
+2013;G;99;Especial de Graduação;Córdoba;ES;Espanha;2
+2013;G;99;Especial de Graduação;Estocolmo;SE;Suécia;1
+2013;G;99;Especial de Graduação;Guadalupe-Zacatecas;MX;México;1
+2013;G;99;Especial de Graduação;Guatemala;GT;Guatemala;1
+2013;G;99;Especial de Graduação;Guayaquil;EC;Equador;2
+2013;G;99;Especial de Graduação;Hermosillo;MX;México;9
+2013;G;99;Especial de Graduação;Hondarribia;ES;Espanha;1
+2013;G;99;Especial de Graduação;Hong Kong;DK;Dinamarca;1
+2013;G;99;Especial de Graduação;Huancayo;PE;Peru;1
+2013;G;99;Especial de Graduação;Huánuco;PE;Peru;1
+2013;G;99;Especial de Graduação;Ibague;CO;Colômbia;10
+2013;G;99;Especial de Graduação;Ivrea;IT;Itália;1
+2013;G;99;Especial de Graduação;Leticia;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Lima;PE;Peru;3
+2013;G;99;Especial de Graduação;Lindlar;DA;Alemanha;1
+2013;G;99;Especial de Graduação;Logrono;ES;Espanha;1
+2013;G;99;Especial de Graduação;Londres;RU;Reino Unido;1
+2013;G;99;Especial de Graduação;Longjumeau;FR;França;1
+2013;G;99;Especial de Graduação;Los Angeles;CL;Chile;1
+2013;G;99;Especial de Graduação;Madrid;ES;Espanha;6
+2013;G;99;Especial de Graduação;Manizales;CO;Colômbia;2
+2013;G;99;Especial de Graduação;Mar del Plata;AR;Argentina;2
+2013;G;99;Especial de Graduação;Medellin;CO;Colômbia;4
+2013;G;99;Especial de Graduação;Mendoza;AR;Argentina;2
+2013;G;99;Especial de Graduação;Milão;IT;Itália;1
+2013;G;99;Especial de Graduação;Minatitlán Veracruz;MX;México;1
+2013;G;99;Especial de Graduação;Minden;DA;Alemanha;1
+2013;G;99;Especial de Graduação;Montevideo;UY;Uruguai;3
+2013;G;99;Especial de Graduação;Montpellier;FR;França;1
+2013;G;99;Especial de Graduação;Munique;DA;Alemanha;1
+2013;G;99;Especial de Graduação;Nara-Ken;JP;Japão;1
+2013;G;99;Especial de Graduação;Neiva;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Neuquén;AR;Argentina;1
+2013;G;99;Especial de Graduação;Nogales;MX;México;1
+2013;G;99;Especial de Graduação;Nuevo León;MX;México;1
+2013;G;99;Especial de Graduação;Oslo;NO;Noruega;1
+2013;G;99;Especial de Graduação;Ovalle;CL;Chile;1
+2013;G;99;Especial de Graduação;Pamplona;ES;Espanha;2
+2013;G;99;Especial de Graduação;Paris;FR;França;6
+2013;G;99;Especial de Graduação;Pasto;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Pereira-Risaralda;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Puebla;MX;México;2
+2013;G;99;Especial de Graduação;Rio Cuarto;AR;Argentina;1
+2013;G;99;Especial de Graduação;Roma;IT;Itália;1
+2013;G;99;Especial de Graduação;S Miguel de Tucuman;AR;Argentina;1
+2013;G;99;Especial de Graduação;Saint-Pierre;FR;França;1
+2013;G;99;Especial de Graduação;Salta;AR;Argentina;1
+2013;G;99;Especial de Graduação;Salto;UY;Uruguai;1
+2013;G;99;Especial de Graduação;San Luis;AR;Argentina;1
+2013;G;99;Especial de Graduação;San Rafael;AR;Argentina;1
+2013;G;99;Especial de Graduação;Santa Fé;AR;Argentina;5
+2013;G;99;Especial de Graduação;Santander;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Santarém;PT;Portugal;1
+2013;G;99;Especial de Graduação;Santiago;CL;Chile;9
+2013;G;99;Especial de Graduação;Simijaca;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Sinaloa;MX;México;1
+2013;G;99;Especial de Graduação;Sonora;MX;México;1
+2013;G;99;Especial de Graduação;Speyer;DA;Alemanha;1
+2013;G;99;Especial de Graduação;Stavanger;NO;Noruega;1
+2013;G;99;Especial de Graduação;Suwon;KR;Coréia do Sul;1
+2013;G;99;Especial de Graduação;Teruel;ES;Espanha;1
+2013;G;99;Especial de Graduação;Torino;IT;Itália;1
+2013;G;99;Especial de Graduação;Toulouse;FR;França;1
+2013;G;99;Especial de Graduação;Tunja;CO;Colômbia;1
+2013;G;99;Especial de Graduação;Valladolid;ES;Espanha;1
+2013;G;99;Especial de Graduação;Villeneuve d'Ascq;FR;França;1
+2013;G;99;Especial de Graduação;Warszawa;PL;Polônia;1
+2013;G;99;Especial de Graduação;Würzburg;DA;Alemanha;1
+2013;G;99;Especial de Graduação;;;;64
+2014;G;99;Especial de Graduação;Abomey-Calavi;BF;Benin;1
+2014;G;99;Especial de Graduação;Accra;GH;Gana;1
+2014;G;99;Especial de Graduação;Agonlin Houegbo;BF;Benin;1
+2014;G;99;Especial de Graduação;Aix-en-Provence;FR;França;1
+2014;G;99;Especial de Graduação;Alençon;FR;França;1
+2014;G;99;Especial de Graduação;Alicante;ES;Espanha;1
+2014;G;99;Especial de Graduação;Asuncion;PY;Paraguai;2
+2014;G;99;Especial de Graduação;Austin-Texas;US;Estados Unidos da América;1
+2014;G;99;Especial de Graduação;Avellaneda;AR;Argentina;1
+2014;G;99;Especial de Graduação;Barcelona;ES;Espanha;2
+2014;G;99;Especial de Graduação;Barrancabermeja;CO;Colômbia;2
+2014;G;99;Especial de Graduação;Barranquilla;CO;Colômbia;2
+2014;G;99;Especial de Graduação;Berlim;DA;Alemanha;3
+2014;G;99;Especial de Graduação;Bogotá;CO;Colômbia;22
+2014;G;99;Especial de Graduação;Brondby;DK;Dinamarca;1
+2014;G;99;Especial de Graduação;Bruxelas;BE;Bélgica;1
+2014;G;99;Especial de Graduação;Bucaramanga;CO;Colômbia;3
+2014;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;3
+2014;G;99;Especial de Graduação;Cagliari;IT;Itália;1
+2014;G;99;Especial de Graduação;Callao;PE;Peru;1
+2014;G;99;Especial de Graduação;Carmen de Bolivar;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Cartagena;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Chambéry;FR;França;1
+2014;G;99;Especial de Graduação;Charleroi;BE;Bélgica;1
+2014;G;99;Especial de Graduação;Chicago-Illinois;US;Estados Unidos da América;1
+2014;G;99;Especial de Graduação;Chihuahua;MX;México;3
+2014;G;99;Especial de Graduação;Cidade do México;MX;México;2
+2014;G;99;Especial de Graduação;Cincinnati;US;Estados Unidos da América;3
+2014;G;99;Especial de Graduação;Cobe-Prov de Hyogo;JP;Japão;2
+2014;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2014;G;99;Especial de Graduação;Concepcion;CL;Chile;2
+2014;G;99;Especial de Graduação;Concepcion del Uruguay;AR;Argentina;1
+2014;G;99;Especial de Graduação;Corrientes;AR;Argentina;1
+2014;G;99;Especial de Graduação;Córdoba;AR;Argentina;1
+2014;G;99;Especial de Graduação;Córdoba;ES;Espanha;1
+2014;G;99;Especial de Graduação;Cundinamarca-Ubaté;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Curico;CL;Chile;1
+2014;G;99;Especial de Graduação;Dijon;FR;França;1
+2014;G;99;Especial de Graduação;Distrito Federal;MX;México;1
+2014;G;99;Especial de Graduação;Gent;BE;Bélgica;1
+2014;G;99;Especial de Graduação;Giron;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Hamburgo;DA;Alemanha;2
+2014;G;99;Especial de Graduação;Hermosillo;MX;México;6
+2014;G;99;Especial de Graduação;Hokkaido;JP;Japão;1
+2014;G;99;Especial de Graduação;Honda Tolima;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Hondarribia;ES;Espanha;1
+2014;G;99;Especial de Graduação;Houston-Texas;US;Estados Unidos da América;1
+2014;G;99;Especial de Graduação;Ibague;CO;Colômbia;10
+2014;G;99;Especial de Graduação;Iquique;CL;Chile;1
+2014;G;99;Especial de Graduação;Jaén;ES;Espanha;2
+2014;G;99;Especial de Graduação;Kagawa;JP;Japão;1
+2014;G;99;Especial de Graduação;Karlsruhe;DA;Alemanha;1
+2014;G;99;Especial de Graduação;La Habana;CU;Cuba;1
+2014;G;99;Especial de Graduação;La Paz;BO;Bolívia;1
+2014;G;99;Especial de Graduação;Lima;PE;Peru;9
+2014;G;99;Especial de Graduação;Lisboa;PT;Portugal;1
+2014;G;99;Especial de Graduação;Logrono;ES;Espanha;2
+2014;G;99;Especial de Graduação;Lomas de Zamora;AR;Argentina;1
+2014;G;99;Especial de Graduação;Londres;IG;Inglaterra;1
+2014;G;99;Especial de Graduação;Los Angeles;CL;Chile;1
+2014;G;99;Especial de Graduação;Los Angeles;US;Estados Unidos da América;1
+2014;G;99;Especial de Graduação;Madrid;ES;Espanha;6
+2014;G;99;Especial de Graduação;Maldonado;UY;Uruguai;1
+2014;G;99;Especial de Graduação;Manchester;IG;Inglaterra;1
+2014;G;99;Especial de Graduação;Manizales;CO;Colômbia;2
+2014;G;99;Especial de Graduação;Medellin;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Mendoza;AR;Argentina;1
+2014;G;99;Especial de Graduação;Mie-Ken;JP;Japão;1
+2014;G;99;Especial de Graduação;Montevideo;UY;Uruguai;1
+2014;G;99;Especial de Graduação;Murcia;ES;Espanha;1
+2014;G;99;Especial de Graduação;Neiva;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Pacho-Cundinamarca;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Palma;ES;Espanha;1
+2014;G;99;Especial de Graduação;Pamplona;ES;Espanha;1
+2014;G;99;Especial de Graduação;Paris;FR;França;1
+2014;G;99;Especial de Graduação;Phulbani;IN;Índia;1
+2014;G;99;Especial de Graduação;Pichincha;PE;Peru;1
+2014;G;99;Especial de Graduação;Puebla;MX;México;1
+2014;G;99;Especial de Graduação;Puerto Montt;CL;Chile;1
+2014;G;99;Especial de Graduação;Queretaro;MX;México;1
+2014;G;99;Especial de Graduação;Rancagua;CL;Chile;1
+2014;G;99;Especial de Graduação;Rennes;FR;França;1
+2014;G;99;Especial de Graduação;Resadiye;TR;Turquia;1
+2014;G;99;Especial de Graduação;Resistência;AR;Argentina;2
+2014;G;99;Especial de Graduação;Rio de Oro;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Rosário;AR;Argentina;1
+2014;G;99;Especial de Graduação;S Miguel de Tucuman;AR;Argentina;2
+2014;G;99;Especial de Graduação;San Gil;CO;Colômbia;1
+2014;G;99;Especial de Graduação;San Lorenzo;PY;Paraguai;1
+2014;G;99;Especial de Graduação;San Luis;AR;Argentina;3
+2014;G;99;Especial de Graduação;Santa Fé;AR;Argentina;1
+2014;G;99;Especial de Graduação;Santiago;CL;Chile;5
+2014;G;99;Especial de Graduação;Santo Domingo;DO;República Dominicana;1
+2014;G;99;Especial de Graduação;Segovia;ES;Espanha;1
+2014;G;99;Especial de Graduação;Siegen;DA;Alemanha;2
+2014;G;99;Especial de Graduação;Sincelejo;CO;Colômbia;1
+2014;G;99;Especial de Graduação;Sogamoso;CO;Colômbia;2
+2014;G;99;Especial de Graduação;Tacna;AR;Argentina;1
+2014;G;99;Especial de Graduação;Talcahuano;CL;Chile;2
+2014;G;99;Especial de Graduação;Tokyo;JP;Japão;1
+2014;G;99;Especial de Graduação;Toulouse;FR;França;1
+2014;G;99;Especial de Graduação;Tunis;TN;Tunísia;1
+2014;G;99;Especial de Graduação;Valdepeñas;ES;Espanha;1
+2014;G;99;Especial de Graduação;Valladolid;ES;Espanha;1
+2014;G;99;Especial de Graduação;Villavicencio;CO;Colômbia;2
+2014;G;99;Especial de Graduação;Villeneuve d'Ascq;FR;França;1
+2014;G;99;Especial de Graduação;Warszawa;PL;Polônia;1
+2014;G;99;Especial de Graduação;;;;113
+2015;G;99;Especial de Graduação;Abomey-Calavi;BF;Benin;1
+2015;G;99;Especial de Graduação;Accra;GH;Gana;1
+2015;G;99;Especial de Graduação;Agonlin Houegbo;BF;Benin;1
+2015;G;99;Especial de Graduação;Aix-en-Provence;FR;França;1
+2015;G;99;Especial de Graduação;Alba;IT;Itália;1
+2015;G;99;Especial de Graduação;Alicante;ES;Espanha;5
+2015;G;99;Especial de Graduação;Asuncion;PY;Paraguai;1
+2015;G;99;Especial de Graduação;Atenas;GR;Grécia;1
+2015;G;99;Especial de Graduação;Baltimore;US;Estados Unidos da América;1
+2015;G;99;Especial de Graduação;Barcelona;ES;Espanha;2
+2015;G;99;Especial de Graduação;Bayonne;FR;França;1
+2015;G;99;Especial de Graduação;Bogotá;CO;Colômbia;12
+2015;G;99;Especial de Graduação;Bolonha;IT;Itália;1
+2015;G;99;Especial de Graduação;Bruxelas;BE;Bélgica;1
+2015;G;99;Especial de Graduação;Bucaramanga;CO;Colômbia;9
+2015;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;3
+2015;G;99;Especial de Graduação;Cali;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Carmen de Bolivar;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Cartagena;CO;Colômbia;2
+2015;G;99;Especial de Graduação;Chiba;JP;Japão;1
+2015;G;99;Especial de Graduação;Chicago-Illinois;US;Estados Unidos da América;1
+2015;G;99;Especial de Graduação;Chieri;IT;Itália;1
+2015;G;99;Especial de Graduação;Chillan;CL;Chile;2
+2015;G;99;Especial de Graduação;Cobe-Prov de Hyogo;JP;Japão;1
+2015;G;99;Especial de Graduação;Concepcion;CL;Chile;1
+2015;G;99;Especial de Graduação;Corrientes;AR;Argentina;1
+2015;G;99;Especial de Graduação;Córdoba;AR;Argentina;1
+2015;G;99;Especial de Graduação;Curico;CL;Chile;2
+2015;G;99;Especial de Graduação;Cusco;PE;Peru;1
+2015;G;99;Especial de Graduação;Cúcuta;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Dijon;FR;França;1
+2015;G;99;Especial de Graduação;Duitama;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Dundee;EO;Escócia;1
+2015;G;99;Especial de Graduação;Duppally;IN;Índia;1
+2015;G;99;Especial de Graduação;Encarnacion;PY;Paraguai;1
+2015;G;99;Especial de Graduação;Floridablanca-Santander;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Guayaquil;EC;Equador;1
+2015;G;99;Especial de Graduação;Gummersbach;DA;Alemanha;1
+2015;G;99;Especial de Graduação;Hamburgo;DA;Alemanha;2
+2015;G;99;Especial de Graduação;Heidelberg;DA;Alemanha;1
+2015;G;99;Especial de Graduação;Hokkaido;JP;Japão;1
+2015;G;99;Especial de Graduação;Ibague;CO;Colômbia;12
+2015;G;99;Especial de Graduação;Ica;PE;Peru;1
+2015;G;99;Especial de Graduação;Istambul;TR;Turquia;1
+2015;G;99;Especial de Graduação;Jaén;ES;Espanha;2
+2015;G;99;Especial de Graduação;James Craik;AR;Argentina;1
+2015;G;99;Especial de Graduação;Juliaca;PE;Peru;1
+2015;G;99;Especial de Graduação;Kiel;DA;Alemanha;1
+2015;G;99;Especial de Graduação;Kiev;UC;Ucrânia;1
+2015;G;99;Especial de Graduação;La Paz;BO;Bolívia;2
+2015;G;99;Especial de Graduação;La Plata;AR;Argentina;1
+2015;G;99;Especial de Graduação;La Serena;CL;Chile;1
+2015;G;99;Especial de Graduação;Lima;PE;Peru;7
+2015;G;99;Especial de Graduação;Linares;CL;Chile;2
+2015;G;99;Especial de Graduação;Lisboa;PT;Portugal;1
+2015;G;99;Especial de Graduação;Lodi;IT;Itália;1
+2015;G;99;Especial de Graduação;Logrono;ES;Espanha;1
+2015;G;99;Especial de Graduação;Louisville-Kentucky;US;Estados Unidos da América;1
+2015;G;99;Especial de Graduação;Madrid;ES;Espanha;9
+2015;G;99;Especial de Graduação;Majagual;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Medellin;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Melbourne;AU;Austrália;1
+2015;G;99;Especial de Graduação;Mendoza;AR;Argentina;3
+2015;G;99;Especial de Graduação;Mercedes;AR;Argentina;1
+2015;G;99;Especial de Graduação;Metz;FR;França;1
+2015;G;99;Especial de Graduação;Mérida;VE;Venezuela;1
+2015;G;99;Especial de Graduação;Mie-Ken;JP;Japão;1
+2015;G;99;Especial de Graduação;Milano;IT;Itália;1
+2015;G;99;Especial de Graduação;Minneapolis-Minnesota;US;Estados Unidos da América;1
+2015;G;99;Especial de Graduação;Molina;CL;Chile;1
+2015;G;99;Especial de Graduação;Montevideo;UY;Uruguai;3
+2015;G;99;Especial de Graduação;Montpellier;FR;França;3
+2015;G;99;Especial de Graduação;Munique;DA;Alemanha;1
+2015;G;99;Especial de Graduação;Murcia;ES;Espanha;1
+2015;G;99;Especial de Graduação;New Brunswick;US;Estados Unidos da América;1
+2015;G;99;Especial de Graduação;Nyandarua North;KE;Quênia;1
+2015;G;99;Especial de Graduação;Palmira;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Pamplona;ES;Espanha;3
+2015;G;99;Especial de Graduação;Paysandu;UY;Uruguai;2
+2015;G;99;Especial de Graduação;Pequim;CN;China;1
+2015;G;99;Especial de Graduação;Pereira-Risaralda;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Phulbani;IN;Índia;1
+2015;G;99;Especial de Graduação;Poitiers;FR;França;1
+2015;G;99;Especial de Graduação;Praia;CV;Cabo Verde;1
+2015;G;99;Especial de Graduação;Rennes;FR;França;1
+2015;G;99;Especial de Graduação;Resistência;AR;Argentina;1
+2015;G;99;Especial de Graduação;Rio de Oro;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Rosário;AR;Argentina;1
+2015;G;99;Especial de Graduação;S Miguel de Tucuman;AR;Argentina;1
+2015;G;99;Especial de Graduação;Sacramento-California;US;Estados Unidos da América;1
+2015;G;99;Especial de Graduação;Saitama-Ken;JP;Japão;1
+2015;G;99;Especial de Graduação;San Luis Potosí;MX;México;1
+2015;G;99;Especial de Graduação;San Martin;AR;Argentina;1
+2015;G;99;Especial de Graduação;San Miguel de Tucumán;AR;Argentina;1
+2015;G;99;Especial de Graduação;Santa Fé;AR;Argentina;4
+2015;G;99;Especial de Graduação;Santiago;CL;Chile;4
+2015;G;99;Especial de Graduação;Setubal;PT;Portugal;1
+2015;G;99;Especial de Graduação;Seul;KR;Coréia do Sul;1
+2015;G;99;Especial de Graduação;Sichuan;CN;China;1
+2015;G;99;Especial de Graduação;Siegen;DA;Alemanha;2
+2015;G;99;Especial de Graduação;Simijaca;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Sincelejo;CO;Colômbia;2
+2015;G;99;Especial de Graduação;Talavera de la Reina;ES;Espanha;1
+2015;G;99;Especial de Graduação;Talcahuano;CL;Chile;1
+2015;G;99;Especial de Graduação;Tianjin;CN;China;1
+2015;G;99;Especial de Graduação;Tunja;CO;Colômbia;2
+2015;G;99;Especial de Graduação;Valencia;ES;Espanha;1
+2015;G;99;Especial de Graduação;Valparaiso;CL;Chile;1
+2015;G;99;Especial de Graduação;Villavicencio;CO;Colômbia;1
+2015;G;99;Especial de Graduação;Wonju;KR;Coréia do Sul;1
+2015;G;99;Especial de Graduação;Zaragoza;ES;Espanha;1
+2015;G;99;Especial de Graduação;;;;114
+2016;G;99;Especial de Graduação;Agonlin Houegbo;BF;Benin;1
+2016;G;99;Especial de Graduação;Aichi-Ken;JP;Japão;1
+2016;G;99;Especial de Graduação;Aquitania;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Asuncion;PY;Paraguai;3
+2016;G;99;Especial de Graduação;Ayacucho;PE;Peru;1
+2016;G;99;Especial de Graduação;Barcelona;ES;Espanha;1
+2016;G;99;Especial de Graduação;Barranquilla;CO;Colômbia;2
+2016;G;99;Especial de Graduação;Beijing;CN;China;1
+2016;G;99;Especial de Graduação;Belalcazar Caldas;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Beni;BO;Bolívia;1
+2016;G;99;Especial de Graduação;Bogotá;CO;Colômbia;27
+2016;G;99;Especial de Graduação;Brookfield-Connecticut;US;Estados Unidos da América;2
+2016;G;99;Especial de Graduação;Bucaramanga;CO;Colômbia;18
+2016;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;5
+2016;G;99;Especial de Graduação;Cairo;EG;Egito;1
+2016;G;99;Especial de Graduação;California;US;Estados Unidos da América;1
+2016;G;99;Especial de Graduação;Cambridge;IG;Inglaterra;1
+2016;G;99;Especial de Graduação;Cantão;CN;China;1
+2016;G;99;Especial de Graduação;Caracas;VE;Venezuela;1
+2016;G;99;Especial de Graduação;Champigny-Sur-Marne;FR;França;1
+2016;G;99;Especial de Graduação;Chicago-Illinois;US;Estados Unidos da América;1
+2016;G;99;Especial de Graduação;Chillan;CL;Chile;2
+2016;G;99;Especial de Graduação;Cobe-Prov de Hyogo;JP;Japão;2
+2016;G;99;Especial de Graduação;Cochabamba;BO;Bolívia;1
+2016;G;99;Especial de Graduação;Concepcion del Uruguay;AR;Argentina;1
+2016;G;99;Especial de Graduação;Concordia;AR;Argentina;1
+2016;G;99;Especial de Graduação;Corrientes;AR;Argentina;3
+2016;G;99;Especial de Graduação;Córdoba;AR;Argentina;5
+2016;G;99;Especial de Graduação;Cresco-Iowa;US;Estados Unidos da América;1
+2016;G;99;Especial de Graduação;Curico;CL;Chile;2
+2016;G;99;Especial de Graduação;Distrito Federal;MX;México;2
+2016;G;99;Especial de Graduação;Encarnacion;PY;Paraguai;2
+2016;G;99;Especial de Graduação;Fusagasuga;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Gifu-Ken;JP;Japão;1
+2016;G;99;Especial de Graduação;Grenoble;FR;França;1
+2016;G;99;Especial de Graduação;Guayaquil;EC;Equador;2
+2016;G;99;Especial de Graduação;Hermosillo;MX;México;1
+2016;G;99;Especial de Graduação;Huancayo;PE;Peru;1
+2016;G;99;Especial de Graduação;Hunan;CN;China;1
+2016;G;99;Especial de Graduação;Ibague;CO;Colômbia;4
+2016;G;99;Especial de Graduação;Ica;PE;Peru;2
+2016;G;99;Especial de Graduação;Ipiales;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Istambul;TR;Turquia;1
+2016;G;99;Especial de Graduação;Jaén;ES;Espanha;2
+2016;G;99;Especial de Graduação;Junin;PE;Peru;4
+2016;G;99;Especial de Graduação;Kawasaki;JP;Japão;1
+2016;G;99;Especial de Graduação;Krakow;PL;Polônia;1
+2016;G;99;Especial de Graduação;La Paz;BO;Bolívia;1
+2016;G;99;Especial de Graduação;La Plata;AR;Argentina;2
+2016;G;99;Especial de Graduação;Lima;PE;Peru;10
+2016;G;99;Especial de Graduação;Lisboa;PT;Portugal;2
+2016;G;99;Especial de Graduação;Logrono;ES;Espanha;1
+2016;G;99;Especial de Graduação;Londres;IG;Inglaterra;1
+2016;G;99;Especial de Graduação;Londres;RU;Reino Unido;1
+2016;G;99;Especial de Graduação;Madrid;ES;Espanha;13
+2016;G;99;Especial de Graduação;Mainz;DA;Alemanha;1
+2016;G;99;Especial de Graduação;Malaga;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Melbourne;AU;Austrália;1
+2016;G;99;Especial de Graduação;Mendoza;AR;Argentina;2
+2016;G;99;Especial de Graduação;Mérida;VE;Venezuela;1
+2016;G;99;Especial de Graduação;Monteria;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Monterrey;MX;México;1
+2016;G;99;Especial de Graduação;Montevideo;UY;Uruguai;2
+2016;G;99;Especial de Graduação;Montpellier;FR;França;1
+2016;G;99;Especial de Graduação;Munique;DA;Alemanha;1
+2016;G;99;Especial de Graduação;Neiva;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Ocana;CO;Colômbia;2
+2016;G;99;Especial de Graduação;Osaka;JP;Japão;1
+2016;G;99;Especial de Graduação;Palmira;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Pamplona;CO;Colômbia;2
+2016;G;99;Especial de Graduação;Pamplona;ES;Espanha;3
+2016;G;99;Especial de Graduação;Paris;FR;França;2
+2016;G;99;Especial de Graduação;Pequim;CN;China;2
+2016;G;99;Especial de Graduação;Pereira-Risaralda;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Phulbani;IN;Índia;1
+2016;G;99;Especial de Graduação;Piura;PE;Peru;2
+2016;G;99;Especial de Graduação;Ponta Delgada;PT;Portugal;1
+2016;G;99;Especial de Graduação;Popayan;CO;Colômbia;2
+2016;G;99;Especial de Graduação;Puebla;MX;México;1
+2016;G;99;Especial de Graduação;Puno;PE;Peru;1
+2016;G;99;Especial de Graduação;Quito;EC;Equador;2
+2016;G;99;Especial de Graduação;Rancagua;CL;Chile;1
+2016;G;99;Especial de Graduação;Rennes;FR;França;1
+2016;G;99;Especial de Graduação;Republica da Coréia;KR;Coréia do Sul;1
+2016;G;99;Especial de Graduação;Resistência;AR;Argentina;2
+2016;G;99;Especial de Graduação;Rio de Oro;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Rosário;AR;Argentina;1
+2016;G;99;Especial de Graduação;S Miguel de Tucuman;AR;Argentina;1
+2016;G;99;Especial de Graduação;Saitama-Ken;JP;Japão;1
+2016;G;99;Especial de Graduação;San Luis Potosí;MX;México;1
+2016;G;99;Especial de Graduação;San Martin;PE;Peru;1
+2016;G;99;Especial de Graduação;San Vicente de Chucuri;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Santa Cruz de La Sierra;BO;Bolívia;1
+2016;G;99;Especial de Graduação;Santa Fé;AR;Argentina;2
+2016;G;99;Especial de Graduação;Santiago;CL;Chile;6
+2016;G;99;Especial de Graduação;Santiago do Chile;CL;Chile;1
+2016;G;99;Especial de Graduação;Seoul;KR;Coréia do Sul;1
+2016;G;99;Especial de Graduação;Seul;KR;Coréia do Sul;1
+2016;G;99;Especial de Graduação;Shiga-ken;JP;Japão;1
+2016;G;99;Especial de Graduação;Sicuani;PE;Peru;1
+2016;G;99;Especial de Graduação;Sogamoso;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Suwon;KR;Coréia do Sul;1
+2016;G;99;Especial de Graduação;Talavera de la Reina;ES;Espanha;1
+2016;G;99;Especial de Graduação;Talcahuano;CL;Chile;3
+2016;G;99;Especial de Graduação;Tel Aviv;IL;Israel;1
+2016;G;99;Especial de Graduação;Tianjin;CN;China;1
+2016;G;99;Especial de Graduação;Tokyo;JP;Japão;1
+2016;G;99;Especial de Graduação;Toluca;MX;México;1
+2016;G;99;Especial de Graduação;Tucson-Arizona;US;Estados Unidos da América;1
+2016;G;99;Especial de Graduação;Tunja;CO;Colômbia;1
+2016;G;99;Especial de Graduação;Valência Carabobo;VE;Venezuela;1
+2016;G;99;Especial de Graduação;Villahermosa;MX;México;1
+2016;G;99;Especial de Graduação;Vom-Jos South;NG;Nigéria;1
+2016;G;99;Especial de Graduação;Wum;CM;Camarões;1
+2016;G;99;Especial de Graduação;Yokohama;JP;Japão;1
+2016;G;99;Especial de Graduação;Zaragoza;ES;Espanha;1
+2016;G;99;Especial de Graduação;;;;119
+2017;G;99;Especial de Graduação;Accra;GH;Gana;1
+2017;G;99;Especial de Graduação;Alicante;ES;Espanha;1
+2017;G;99;Especial de Graduação;Asuncion;PY;Paraguai;1
+2017;G;99;Especial de Graduação;Barcelona;ES;Espanha;2
+2017;G;99;Especial de Graduação;Barrancabermeja;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Barranquilla;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Bogotá;CO;Colômbia;13
+2017;G;99;Especial de Graduação;Brookfield-Connecticut;US;Estados Unidos da América;1
+2017;G;99;Especial de Graduação;Bucaramanga;CO;Colômbia;10
+2017;G;99;Especial de Graduação;Buenos Aires;AR;Argentina;1
+2017;G;99;Especial de Graduação;Caba;AR;Argentina;1
+2017;G;99;Especial de Graduação;Cantão;CN;China;1
+2017;G;99;Especial de Graduação;Chiba;JP;Japão;2
+2017;G;99;Especial de Graduação;Chicago-Illinois;US;Estados Unidos da América;1
+2017;G;99;Especial de Graduação;Cidade do México;MX;México;2
+2017;G;99;Especial de Graduação;Concepcion;CL;Chile;1
+2017;G;99;Especial de Graduação;Concordia;AR;Argentina;1
+2017;G;99;Especial de Graduação;Corrientes;AR;Argentina;1
+2017;G;99;Especial de Graduação;Córdoba;AR;Argentina;2
+2017;G;99;Especial de Graduação;Cresco-Iowa;US;Estados Unidos da América;1
+2017;G;99;Especial de Graduação;Curico;CL;Chile;1
+2017;G;99;Especial de Graduação;Faro;PT;Portugal;1
+2017;G;99;Especial de Graduação;Fujisawa;JP;Japão;1
+2017;G;99;Especial de Graduação;Fukui-Ken;JP;Japão;1
+2017;G;99;Especial de Graduação;Granada;ES;Espanha;1
+2017;G;99;Especial de Graduação;Guanajuato;MX;México;1
+2017;G;99;Especial de Graduação;Guayaquil;EC;Equador;1
+2017;G;99;Especial de Graduação;Hermosillo;MX;México;1
+2017;G;99;Especial de Graduação;Hiroshima-Ken;JP;Japão;1
+2017;G;99;Especial de Graduação;Ibague;CO;Colômbia;2
+2017;G;99;Especial de Graduação;Ica;PE;Peru;1
+2017;G;99;Especial de Graduação;Ipiales;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Jaén;ES;Espanha;1
+2017;G;99;Especial de Graduação;Kawasaki;JP;Japão;1
+2017;G;99;Especial de Graduação;Lima;PE;Peru;6
+2017;G;99;Especial de Graduação;Lusaka;ZM;Zambia;1
+2017;G;99;Especial de Graduação;Madrid;ES;Espanha;8
+2017;G;99;Especial de Graduação;Medellin;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Mendoza;AR;Argentina;2
+2017;G;99;Especial de Graduação;Monteria;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Montevideo;UY;Uruguai;1
+2017;G;99;Especial de Graduação;Nuevo Chimbote;PE;Peru;1
+2017;G;99;Especial de Graduação;Paipa;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Pamplona;ES;Espanha;1
+2017;G;99;Especial de Graduação;Pequim;CN;China;1
+2017;G;99;Especial de Graduação;Ponta Delgada;PT;Portugal;1
+2017;G;99;Especial de Graduação;Popayan;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Quevedo;EC;Equador;1
+2017;G;99;Especial de Graduação;Quito;EC;Equador;1
+2017;G;99;Especial de Graduação;San Vicente de Chucuri;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Santa Clara de Tulpo;PE;Peru;1
+2017;G;99;Especial de Graduação;Santa Fé;AR;Argentina;2
+2017;G;99;Especial de Graduação;Santiago;CL;Chile;4
+2017;G;99;Especial de Graduação;Santiago de Compostela;ES;Espanha;1
+2017;G;99;Especial de Graduação;Seoul;KR;Coréia do Sul;1
+2017;G;99;Especial de Graduação;Seul;KR;Coréia do Sul;2
+2017;G;99;Especial de Graduação;Shiga-ken;JP;Japão;1
+2017;G;99;Especial de Graduação;Sichuan;CN;China;1
+2017;G;99;Especial de Graduação;Siegen;DA;Alemanha;1
+2017;G;99;Especial de Graduação;Sincelejo;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Socorro;CO;Colômbia;1
+2017;G;99;Especial de Graduação;Tacna;PE;Peru;1
+2017;G;99;Especial de Graduação;Talca;CL;Chile;1
+2017;G;99;Especial de Graduação;Talcahuano;CL;Chile;2
+2017;G;99;Especial de Graduação;Temuco;CL;Chile;2
+2017;G;99;Especial de Graduação;Tokyo;JP;Japão;1
+2017;G;99;Especial de Graduação;Tóquio;JP;Japão;2
+2017;G;99;Especial de Graduação;Trujillo;PE;Peru;1
+2017;G;99;Especial de Graduação;Tübingen;DA;Alemanha;1
+2017;G;99;Especial de Graduação;Valdepeñas;ES;Espanha;1
+2017;G;99;Especial de Graduação;Valência Carabobo;VE;Venezuela;1
+2017;G;99;Especial de Graduação;Valparaiso;CL;Chile;1
+2017;G;99;Especial de Graduação;Villavicencio;CO;Colômbia;2
+2017;G;99;Especial de Graduação;Viña Del Mar;CL;Chile;2
+2017;G;99;Especial de Graduação;Vom-Jos South;NG;Nigéria;1
+2017;G;99;Especial de Graduação;;;;47

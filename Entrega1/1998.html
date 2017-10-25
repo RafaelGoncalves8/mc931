@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>1998</title>
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <style type="text/css">
+            #container {
+                height: 500px; 
+                min-width: 310px; 
+                max-width: 800px; 
+                margin: 0 auto; 
+            }
+            .loading {
+                margin-top: 10em;
+                text-align: center;
+                color: gray;
+            }
+        </style>
+        <script src="jquery-csv.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                var data = [
+                    { 'hc-key': 'br-ac', value: 3 },
+                    { 'hc-key': 'br-al', value: 42 },
+                    { 'hc-key': 'br-ap', value: 5 },
+                    { 'hc-key': 'br-am', value: 9 },
+                    { 'hc-key': 'br-ba', value: 134 },
+                    { 'hc-key': 'br-ce', value: 41 },
+                    { 'hc-key': 'br-df', value: 152 },
+                    { 'hc-key': 'br-es', value: 40 },
+                    { 'hc-key': 'br-go', value: 106 },
+                    { 'hc-key': 'br-ma', value: 5 },
+                    { 'hc-key': 'br-mt', value: 11 },
+                    { 'hc-key': 'br-ms', value: 26 },
+                    { 'hc-key': 'br-mg', value: 475 },
+                    { 'hc-key': 'br-pa', value: 23 },
+                    { 'hc-key': 'br-pb', value: 152 },
+                    { 'hc-key': 'br-pr', value: 185 },
+                    { 'hc-key': 'br-pe', value: 39 },
+                    { 'hc-key': 'br-pi', value: 13 },
+                    { 'hc-key': 'br-rj', value: 495 },
+                    { 'hc-key': 'br-rn', value: 22 },
+                    { 'hc-key': 'br-rs', value: 56 },
+                    { 'hc-key': 'br-ro', value: 4 },
+                    { 'hc-key': 'br-rr', value: 1 },
+                    { 'hc-key': 'br-sc', value: 35 },
+                    { 'hc-key': 'br-sp', value: 0 },
+                    { 'hc-key': 'br-se', value: 10 },
+                    { 'hc-key': 'br-to', value: 3 }
+                ];
+                // Initiate the chart
+                $('#container').highcharts('Map', {
+                    
+                    title : {
+                        text : 'Matriculados por estado em número absoluto - 1998'
+                    },
+
+                    subtitle : {
+                        text : 'Source map: <a href="https://code.highcharts.com/mapdata/countries/br/br-all.js">countries/br/br-all</a>'
+                    },
+
+                    mapNavigation: {
+                        enabled: true,
+                        buttonOptions: {
+                            verticalAlign: 'bottom'
+                        }
+                    },
+
+                    colorAxis: {
+                        min: 0
+                    },
+
+                    series : [{
+                        data : data,
+                        mapData: Highcharts.maps['countries/br/br-all'],
+                        joinBy: 'hc-key',
+                        name: 'Matriculados',
+                        states: {
+                            hover: {
+                                color: '#a4edba'
+                            }
+                        },
+                        dataLabels: {
+                            enabled: true,
+                            format: '{point.name}'
+                        }
+                    }]
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+        <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/mapdata/countries/br/br-all.js"></script>
+
+
+        <div id="container"></div>
+
+    </body>
+</html>
